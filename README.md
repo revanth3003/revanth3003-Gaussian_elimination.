@@ -17,4 +17,4 @@ compu_time.m - This file, with random matrices of various sizes, and will plot t
 
 Note: Make sure you have function files is in your path before run. 
 
-Thank you 
+Thank you !!
