@@ -14,3 +14,7 @@ axb.m - a function that will take matrix argument A and vector argument b, and r
         
 compu_time.m - This file, with random matrices of various sizes, and will plot the time required to
                 solve the system as a function of the number of rows m and columns n
+
+Note: Make sure you have function files is in your path before run. 
+
+Thank you 
