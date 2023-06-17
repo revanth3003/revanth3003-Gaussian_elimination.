@@ -1,4 +1,4 @@
-# revanth3003-Gaussian_elimination.
+# Gaussian_elimination.
 
 testmatrix.m - Matlab function will test whether a given matrix is in an echelon form, 
                a row canonical form(Reduced Row Echelon Form), or neither. Example: A=randi([-1,4],4,4); x=textmatrix(A)
